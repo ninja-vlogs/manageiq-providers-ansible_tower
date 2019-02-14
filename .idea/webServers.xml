@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="66649073-2b97-4ffc-8132-756e31686c06" name="ansible_tower" url="http://66.231.246.120">
+        <fileTransfer host="66.231.246.120" port="22" privateKey="C:\Users\neha.wankar\Desktop\KeyPairs\KeyPair-N_usa.pem" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="ansible_tower">
+    <serverData>
+      <paths name="ansible_tower">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/linux/.rvm/gems/ruby-2.5.1/bundler/gems/manageiq-providers-ansible_tower-dfcd8e80e49f/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
